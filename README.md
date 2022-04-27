@@ -1,18 +1,21 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7738856&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# RoutineMaker
+Nosso projeto é criar um aplicativo para facilitar a organização de rotina 
+das pessoas e trazer mais facilidade pro usuário do nosso app ao cumprir com
+suas tarefas diárias.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Thiago Friedrich Cunha
+* Luca Marigo
+* João Vitor Eliazar
+* João Ricardo
+* Miguel Magalhães
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Carneiro
+
 
 ## Instruções de utilização
 
