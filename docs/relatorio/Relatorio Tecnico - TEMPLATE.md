@@ -1,22 +1,23 @@
 # Informações do Projeto
-`Routine Maker`📝
+`Nome do Projeto`
 
-......   ......
+<i><b>Routine Maker</b></i>
 
-`CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+`Desenvolvimento de Interfaces Web` 
+
+
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
-
+> - Thiago Cunha
+> - Luca Marigo
+> - João Vitor Eliazar
+> - Guilherme Miranda
+> - João Ricardo
+> - Miguel Magalhães
+> 
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
@@ -54,38 +55,14 @@
 
 # Introdução
 
-## Problema
+## Problema🟥
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ Um dos aborrecimentos mais comuns dos nossos dias é a falta de tempo. A rotina da maioria das pessoas inclui cuidados infantis, pressão no trabalho e tempo limitado para atividades recreativas. Obrigações excessivas fazem com que o corpo esgote, e as tarefas diárias, como a arrumação da casa, acabam sendo deixadas para mais tarde. Em geral, jovens e adultos, principalmente aqueles com agenda lotada, lutam para organizar seus horários e na maioria não conseguem realizá-los de maneira eficiente.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Com a criação do nosso software esperamos ajudar pessoas que não conseguem administrar seu tempo com eficiencia a partir de uma plataforma editável onde será possível colocar suas atividades e ver seu desempenho para ajudar a administrar o tempo.
 
 ## Justificativa
 
