@@ -60,7 +60,7 @@
 
  Um dos aborrecimentos mais comuns dos nossos dias é a falta de tempo. A rotina da maioria das pessoas inclui cuidados infantis, pressão no trabalho e tempo limitado para atividades recreativas. Obrigações excessivas fazem com que o corpo esgote, e as tarefas diárias, como a arrumação da casa, acabam sendo deixadas para mais tarde. Em geral, jovens e adultos, principalmente aqueles com agenda lotada, lutam para organizar seus horários e na maioria não conseguem realizá-los de maneira eficiente.
 
-## Objetivos
+## Objetivos✅
 
 Com a criação do nosso software esperamos ajudar pessoas que não conseguem administrar seu tempo com eficiencia a partir de uma plataforma editável onde será possível colocar suas atividades e ver seu desempenho para ajudar a administrar o tempo.
 
