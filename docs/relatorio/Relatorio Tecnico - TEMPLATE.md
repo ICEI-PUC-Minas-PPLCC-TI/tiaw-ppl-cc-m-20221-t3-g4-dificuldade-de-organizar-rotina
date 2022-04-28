@@ -1,7 +1,7 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Routine Maker`📝
 
-......  Routine Maker ......
+......   ......
 
 `CURSO` 
 
