@@ -11,6 +11,7 @@ suas tarefas diárias.
 * João Vitor Eliazar
 * João Ricardo
 * Miguel Magalhães
+* Guilherme Miranda
 
 ## Professores responsáveis
 
