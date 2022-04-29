@@ -74,11 +74,7 @@ Jovens e adultos com dificuldades em organizar sua rotina e pessoas que não tem
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
